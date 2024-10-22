@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co.com/f8MskKj/2.png",
+      "title": "The Mysteries of the Sea",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/qdRkK2r/boy1.png",
+      "posted_date": "2024-10-15",
+      "reading_time": 8,
+      "hashtags": ["#mystery", "#adventure", "#ocean"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co.com/f8MskKj/2.png",
+      "title": "Journey to the Unknown",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/qdRkK2r/boy1.png",
+      "posted_date": "2024-09-25",
+      "reading_time": 10,
+      "hashtags": ["#journey", "#exploration", "#discovery"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co.com/f8MskKj/2.png",
+      "title": "Whispers in the Wind",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co.com/qdRkK2r/boy1.png",
+      "posted_date": "2024-10-02",
+      "reading_time": 6,
+      "hashtags": ["#romance", "#drama", "#nature"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co.com/f8MskKj/2.png",
+      "title": "The Future Awaits",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co.com/qdRkK2r/boy1.png",
+      "posted_date": "2024-10-10",
+      "reading_time": 8,
+      "hashtags": ["#technology", "#future", "#innovation"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co.com/f8MskKj/2.png",
+      "title": "Tales of the Forgotten",
+      "author": "Sarah Davis",
+      "author_img": "https://i.ibb.co.com/qdRkK2r/boy1.png",
+      "posted_date": "2024-10-18",
+      "reading_time": 7,
+      "hashtags": ["#history", "#mystery", "#culture"]
+    }
+  ]
+  
